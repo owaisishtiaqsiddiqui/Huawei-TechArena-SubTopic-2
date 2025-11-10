@@ -1,7 +1,7 @@
 # Huawei-TechArena-SubTopic-2: Technological innovation of low orbit satellite communication network
---------
+
 ## Abstract
----------
+
 We present a framework for beamforming optimization in Low Earth Orbit (LEO) satellite communication systems, targeting enhanced connectivity, coverage, and efficiency for future 6G networks. The proposed approach designs and analyzes multi-beam weight configurations for a 100×100 planar antenna array, enabling precise beamwidth control and significant sidelobe suppression. The study includes beam optimization for various beam positions and introduces array thinning techniques to reduce hardware complexity while maintaining high directional gain and low signal distortion. The resulting model provides accurate beam steering, efficient spatial coverage, and adaptability across multiple communication scenarios, offering a robust foundation for intelligent and high-performance LEO satellite communication architectures.
 
 ## ⚙️ Fast Beam Switching Algorithm for Sparse Weight Generation
